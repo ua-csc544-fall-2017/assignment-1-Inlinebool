@@ -1,0 +1,41 @@
+1. Why are you taking this course?
+Because first my advisor recommends it, and also I think it may be helpful for my research.
+
+2. What do you think you’ll learn in this course?
+What is visualization, how to do visualization, and what are the most recent research frontiers of visualization.
+
+3. What programming languages are you comfortable with?
+All but PHP.
+
+4. Which programming language are you most comfortable with?
+C++, I think?
+
+5. Have you ever created a data visualization? What was it?
+Yes. Just some data charts and figures of Physics experiments, and the undergraduate thesis.
+
+6. During the course of your studies, what’s the largest dataset you’ve had to deal with? What tools did you use?
+The CT image and the reconstructed model of a patients coronary arteries. I used VTK to visualize it.
+
+7. What’s the best visualization you’ve ever seen? Why do you like it?
+I cannot pick one since I don't quite know what a good visualization is.
+
+8. What’s the worst visualization you’ve ever seen? Why do you not like it?
+Same as 7.
+
+9. How would you assess your own programming skills, compared to what you would imagine the class composition to be? Please give an estimate in terms of percentiles.
+About average, at 50%.
+
+10. How would you assess your own mathematical skills, compared to what you would imagine the class composition to be? Please give an estimate in terms of percentiles.
+About average, at 50%.
+
+11. Version control. Do you use it regularly/have you used it before?
+Yes I used it regularly.
+
+12. How much experience do you have with Git?
+I know how to use it, but I need to google sometimes for certain operations.
+
+13. How much experience do you have with GitHub?
+I use it regularly.
+
+14. Tell me about something interesting you learned recently. This can really be anything. For example, if you were meeting with a friend, what would you chat about? Possible answers: books, ideas, films, art, TV shows, blogs, podcasts, etc. This answer really does not have to be about data visualization.
+I'm taking a guitar course recently, which is fun.
